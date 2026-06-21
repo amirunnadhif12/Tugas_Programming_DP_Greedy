@@ -1,6 +1,9 @@
 """
 ==========================================================
-  VISUALIZER — Utilitas Visualisasi Algoritma
+  TUGAS PEMROGRAMAN: DYNAMIC PROGRAMMING & GREEDY
+  Mata Kuliah: Perancangan dan Analisa Algoritma
+==========================================================
+  VISUALIZER -- Utilitas Visualisasi Algoritma
 ==========================================================
   Modul ini menyediakan fungsi-fungsi untuk menampilkan:
   1. Tabel DP (0/1 Knapsack) secara rapi di terminal

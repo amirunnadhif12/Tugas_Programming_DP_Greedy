@@ -1,5 +1,8 @@
 """
 ==========================================================
+  TUGAS PEMROGRAMAN: DYNAMIC PROGRAMMING & GREEDY
+  Mata Kuliah: Perancangan dan Analisa Algoritma
+==========================================================
   ALGORITMA GREEDY: FRACTIONAL KNAPSACK
 ==========================================================
   Studi Kasus:
@@ -8,8 +11,8 @@
   barang memiliki berat dan nilai, dan kurir boleh mengambil
   fraksi/sebagian dari suatu barang.
 
-  Time Complexity : O(n log n)  — didominasi sorting
-  Space Complexity: O(n)        — menyimpan list item & log
+  Time Complexity : O(n log n)  -- didominasi sorting
+  Space Complexity: O(n)        -- menyimpan list item & log
 ==========================================================
 """
 

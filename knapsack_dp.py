@@ -1,5 +1,8 @@
 """
 ==========================================================
+  TUGAS PEMROGRAMAN: DYNAMIC PROGRAMMING & GREEDY
+  Mata Kuliah: Perancangan dan Analisa Algoritma
+==========================================================
   ALGORITMA DYNAMIC PROGRAMMING: 0/1 KNAPSACK
 ==========================================================
   Studi Kasus:
@@ -8,8 +11,8 @@
   Setiap barang hanya bisa diambil seluruhnya atau tidak
   sama sekali (tidak boleh dipecah).
 
-  Time Complexity : O(n × W)  — pseudo-polynomial
-  Space Complexity: O(n × W)  — menyimpan seluruh tabel DP
+  Time Complexity : O(n x W)  -- pseudo-polynomial
+  Space Complexity: O(n x W)  -- menyimpan seluruh tabel DP
 ==========================================================
 """
 
